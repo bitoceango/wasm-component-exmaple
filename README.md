@@ -96,3 +96,6 @@ Now, run the component with wasmtime:
 wasmtime run final.wasm 1 2 add
 1 + 2 = 3
 ```
+=======
+# wasm-component-exmaple
+
