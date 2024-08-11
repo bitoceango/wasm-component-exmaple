@@ -1,0 +1,10 @@
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/deps/libarbitrary-63ef5d69615f59b9.rmeta: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/lib.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/error.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/unstructured.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/size_hint.rs
+
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/deps/libarbitrary-63ef5d69615f59b9.rlib: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/lib.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/error.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/unstructured.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/size_hint.rs
+
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/deps/arbitrary-63ef5d69615f59b9.d: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/lib.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/error.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/unstructured.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/size_hint.rs
+
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/lib.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/error.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/unstructured.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/arbitrary-1.3.2/src/size_hint.rs:

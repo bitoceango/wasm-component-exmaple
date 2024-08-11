@@ -1,0 +1,3 @@
+cargo:rustc-cfg=can_vector
+cargo:rustc-cfg=write_all_vectored
+cargo:rerun-if-changed=build.rs

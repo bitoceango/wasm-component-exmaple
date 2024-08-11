@@ -1,0 +1,1 @@
+{"rustc":5647117996611099972,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[14801429247176892013,"build_script_build",false,6677875061902043012]],"local":[{"RerunIfChanged":{"output":"release/build/cap-std-c81a095bdb96c2b7/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

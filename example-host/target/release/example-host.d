@@ -1,0 +1,1 @@
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/example-host: /Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/add.wit /Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/src/add.rs /Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/src/main.rs

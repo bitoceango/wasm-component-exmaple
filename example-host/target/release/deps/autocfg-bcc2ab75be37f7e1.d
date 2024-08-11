@@ -1,0 +1,10 @@
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/deps/libautocfg-bcc2ab75be37f7e1.rmeta: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/lib.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/error.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/rustc.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/version.rs
+
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/deps/libautocfg-bcc2ab75be37f7e1.rlib: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/lib.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/error.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/rustc.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/version.rs
+
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/deps/autocfg-bcc2ab75be37f7e1.d: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/lib.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/error.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/rustc.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/version.rs
+
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/lib.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/error.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/rustc.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/autocfg-1.3.0/src/version.rs:

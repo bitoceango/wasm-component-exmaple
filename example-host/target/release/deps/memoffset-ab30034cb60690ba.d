@@ -1,0 +1,10 @@
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/deps/libmemoffset-ab30034cb60690ba.rmeta: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/lib.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/raw_field.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/offset_of.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/span_of.rs
+
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/deps/libmemoffset-ab30034cb60690ba.rlib: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/lib.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/raw_field.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/offset_of.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/span_of.rs
+
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/deps/memoffset-ab30034cb60690ba.d: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/lib.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/raw_field.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/offset_of.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/span_of.rs
+
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/lib.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/raw_field.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/offset_of.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memoffset-0.9.1/src/span_of.rs:

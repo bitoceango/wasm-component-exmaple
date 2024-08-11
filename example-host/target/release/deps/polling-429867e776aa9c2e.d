@@ -1,0 +1,10 @@
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/deps/libpolling-429867e776aa9c2e.rmeta: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/lib.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/os.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/os/kqueue.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/kqueue.rs
+
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/deps/libpolling-429867e776aa9c2e.rlib: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/lib.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/os.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/os/kqueue.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/kqueue.rs
+
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/deps/polling-429867e776aa9c2e.d: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/lib.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/os.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/os/kqueue.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/kqueue.rs
+
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/lib.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/os.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/os/kqueue.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/polling-2.8.0/src/kqueue.rs:

@@ -1,0 +1,8 @@
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/build/target-lexicon-0cca36c2b570b5c0/build_script_build-0cca36c2b570b5c0: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/target-lexicon-0.12.16/build.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/target-lexicon-0.12.16/src/data_model.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/target-lexicon-0.12.16/src/triple.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/target-lexicon-0.12.16/src/targets.rs
+
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/example-host/target/release/build/target-lexicon-0cca36c2b570b5c0/build_script_build-0cca36c2b570b5c0.d: /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/target-lexicon-0.12.16/build.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/target-lexicon-0.12.16/src/data_model.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/target-lexicon-0.12.16/src/triple.rs /Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/target-lexicon-0.12.16/src/targets.rs
+
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/target-lexicon-0.12.16/build.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/target-lexicon-0.12.16/src/data_model.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/target-lexicon-0.12.16/src/triple.rs:
+/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/target-lexicon-0.12.16/src/targets.rs:

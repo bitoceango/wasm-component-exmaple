@@ -1,0 +1,58 @@
+warning: the feature `clamp` has been stable since 1.50.0 and no longer requires an attribute to enable
+ --> <anon>:1:12
+  |
+1 | #![feature(clamp)]
+  |            ^^^^^
+  |
+  = note: `#[warn(stable_features)]` on by default
+
+warning: 1 warning emitted
+
+warning: the feature `shrink_to` has been stable since 1.56.0 and no longer requires an attribute to enable
+ --> <anon>:1:12
+  |
+1 | #![feature(shrink_to)]
+  |            ^^^^^^^^^
+  |
+  = note: `#[warn(stable_features)]` on by default
+
+warning: 1 warning emitted
+
+warning: the feature `toowned_clone_into` has been stable since 1.63.0 and no longer requires an attribute to enable
+ --> <anon>:1:12
+  |
+1 | #![feature(toowned_clone_into)]
+  |            ^^^^^^^^^^^^^^^^^^
+  |
+  = note: `#[warn(stable_features)]` on by default
+
+warning: 1 warning emitted
+
+warning: the feature `try_reserve` has been stable since 1.57.0 and no longer requires an attribute to enable
+ --> <anon>:1:12
+  |
+1 | #![feature(try_reserve)]
+  |            ^^^^^^^^^^^
+  |
+  = note: `#[warn(stable_features)]` on by default
+
+warning: 1 warning emitted
+
+error[E0635]: unknown feature `windows_by_handle`
+ --> <anon>:1:12
+  |
+1 | #![feature(windows_by_handle)]
+  |            ^^^^^^^^^^^^^^^^^
+
+error: aborting due to 1 previous error
+
+For more information about this error, try `rustc --explain E0635`.
+error[E0635]: unknown feature `windows_file_type_ext`
+ --> <anon>:1:12
+  |
+1 | #![feature(windows_file_type_ext)]
+  |            ^^^^^^^^^^^^^^^^^^^^^
+
+error: aborting due to 1 previous error
+
+For more information about this error, try `rustc --explain E0635`.

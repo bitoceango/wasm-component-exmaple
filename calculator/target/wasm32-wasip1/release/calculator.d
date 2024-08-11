@@ -1,0 +1,1 @@
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/calculator/target/wasm32-wasip1/release/calculator.wasm: /Users/xingyuntian/Develop/wasm/wasm-component-exmaple/calculator/src/bindings.rs /Users/xingyuntian/Develop/wasm/wasm-component-exmaple/calculator/src/lib.rs

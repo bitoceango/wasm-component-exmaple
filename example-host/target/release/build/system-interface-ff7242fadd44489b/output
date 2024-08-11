@@ -1,0 +1,12 @@
+cargo:rustc-cfg=can_vector
+cargo:rustc-cfg=clamp
+cargo:rustc-cfg=extend_one
+cargo:rustc-cfg=io_error_more
+cargo:rustc-cfg=pattern
+cargo:rustc-cfg=seek_stream_len
+cargo:rustc-cfg=shrink_to
+cargo:rustc-cfg=toowned_clone_into
+cargo:rustc-cfg=try_reserve
+cargo:rustc-cfg=unix_socket_peek
+cargo:rustc-cfg=write_all_vectored
+cargo:rerun-if-changed=build.rs

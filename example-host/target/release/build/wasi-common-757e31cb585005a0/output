@@ -1,0 +1,3 @@
+cargo:wasi=/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wasi-common-18.0.4/WASI
+cargo:rustc-env=WASI_ROOT=/Users/xingyuntian/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wasi-common-18.0.4/WASI
+cargo:rerun-if-changed=build.rs

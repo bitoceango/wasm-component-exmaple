@@ -1,0 +1,1 @@
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/adder/target/wasm32-wasip1/release/adder.wasm: /Users/xingyuntian/Develop/wasm/wasm-component-exmaple/adder/src/bindings.rs /Users/xingyuntian/Develop/wasm/wasm-component-exmaple/adder/src/lib.rs

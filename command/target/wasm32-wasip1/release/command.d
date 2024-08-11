@@ -1,0 +1,1 @@
+/Users/xingyuntian/Develop/wasm/wasm-component-exmaple/command/target/wasm32-wasip1/release/command.wasm: /Users/xingyuntian/Develop/wasm/wasm-component-exmaple/command/src/bindings.rs /Users/xingyuntian/Develop/wasm/wasm-component-exmaple/command/src/main.rs
